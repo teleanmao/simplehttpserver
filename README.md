@@ -1,4 +1,9 @@
-# simplehttpserver
+# Simple httpserver
+
 Project http server
 
-HKUST 18Spring 4621
+To run:
+```
+gcc server.c -lpthread -o server
+```
+18Spring comp4621
