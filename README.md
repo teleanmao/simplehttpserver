@@ -1,6 +1,4 @@
-# Simple httpserver
-
-http server 
+# Simple HTTP Server
 
 To run:
 ```
